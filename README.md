@@ -1,4 +1,4 @@
-# Demystifying-Access-Control-Models-RBAC-MAC-and-DAC-Explained-
+# Demystifying Access Control Models RBAC, MAC and DAC Explained
 ## Introduction 
 
 Access control is a critical aspect of information security. It governs how users and systems interact with data and resources within an organization. Three primary access control models—Role-Based Access Control (RBAC), Mandatory Access Control (MAC), and Discretionary Access Control (DAC)—play distinct roles in enforcing security policies. In this comprehensive guide, we'll explore the differences between these models, their applications, and their significance in the realm of information security. We'll also highlight how understanding these models can benefit professionals pursuing the CISSP training offered by ECCENTRIX. 
