@@ -109,7 +109,7 @@ To understand the differences between RBAC, MAC, and DAC, let's examine various 
 
 ## The Relevance of Access Control Models in the CISSP Training 
 
-Understanding access control models, such as RBAC, MAC, and DAC, is essential for professionals pursuing the Certified Information Systems Security Professional (CISSP) certification. The CISSP is a globally recognized certification that focuses on various aspects of information security, including access control and security management. A deep understanding of these access control models is fundamental to securing sensitive data and resources in an organization, making it a vital component of the CISSP training. 
+Understanding access control models, such as RBAC, MAC, and DAC, is essential for professionals pursuing the Certified Information Systems Security Professional (CISSP) certification. The CISSP is a globally recognized certification that focuses on various aspects of information security, including access control and security management. A deep understanding of these access control models is fundamental to securing sensitive data and resources in an organization, making it a vital component of the [CISSP training.](https://www.eccentrix.ca/en/courses/information-security/certified-information-systems-security-professional-cissp-cs8502)
 
 ## Conclusion 
 
